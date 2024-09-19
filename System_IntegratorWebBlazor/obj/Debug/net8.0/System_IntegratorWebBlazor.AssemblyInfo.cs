@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("System_IntegratorWebBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f732ed57a0df430def05989903a9d933e70dafd")]
 [assembly: System.Reflection.AssemblyProductAttribute("System_IntegratorWebBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("System_IntegratorWebBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

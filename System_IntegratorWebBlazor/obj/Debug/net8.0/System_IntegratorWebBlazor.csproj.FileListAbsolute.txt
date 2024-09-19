@@ -1,3 +1,12 @@
+C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.sourcelink.json
 C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\bin\Debug\net8.0\appsettings.json
 C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\bin\Debug\net8.0\System_IntegratorWebBlazor.staticwebassets.runtime.json
@@ -13,14 +22,6 @@ C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\
 C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\bin\Debug\net8.0\Masa.Blazor.dll
 C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\bin\Debug\net8.0\OneOf.dll
 C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\bin\Debug\net8.0\Util.Reflection.dll
-C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.csproj.AssemblyReference.cache
-C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.AssemblyInfoInputs.cache
-C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.AssemblyInfo.cs
-C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.RazorAssemblyInfo.cache
-C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.RazorAssemblyInfo.cs
 C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\staticwebassets\msbuild.System_IntegratorWebBlazor.Microsoft.AspNetCore.StaticWebAssets.props
@@ -35,3 +36,5 @@ C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\
 C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.pdb
 C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\System_IntegratorWebBlazor.genruntimeconfig.cache
 C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\obj\Debug\net8.0\ref\System_IntegratorWebBlazor.dll
+C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\bin\Debug\net8.0\BlazorComponent.dll
+C:\Users\LENOVO\Downloads\System_IntegratorWebBlazor\System_IntegratorWebBlazor\bin\Debug\net8.0\wwwroot\nav\nav.json

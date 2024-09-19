@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|c:\\users\\lenovo\\downloads\\system_integratorwebblazor\\system_integratorwebblazor\\shared\\navigation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|solutionrelative:system_integratorwebblazor\\shared\\navigation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|c:\\users\\lenovo\\downloads\\system_integratorwebblazor\\system_integratorwebblazor\\global\\config\\globalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|solutionrelative:system_integratorwebblazor\\global\\config\\globalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|c:\\users\\lenovo\\downloads\\system_integratorwebblazor\\system_integratorwebblazor\\global\\nav\\navhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|solutionrelative:system_integratorwebblazor\\global\\nav\\navhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|c:\\users\\lenovo\\downloads\\system_integratorwebblazor\\system_integratorwebblazor\\wwwroot\\nav\\nav.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|solutionrelative:system_integratorwebblazor\\wwwroot\\nav\\nav.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|c:\\users\\lenovo\\downloads\\system_integratorwebblazor\\system_integratorwebblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|solutionrelative:system_integratorwebblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|c:\\users\\lenovo\\downloads\\system_integratorwebblazor\\system_integratorwebblazor\\_imports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|solutionrelative:system_integratorwebblazor\\_imports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|c:\\users\\lenovo\\downloads\\system_integratorwebblazor\\system_integratorwebblazor\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|solutionrelative:system_integratorwebblazor\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|c:\\users\\lenovo\\downloads\\system_integratorwebblazor\\system_integratorwebblazor\\shared\\settings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|solutionrelative:system_integratorwebblazor\\shared\\settings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|c:\\users\\lenovo\\downloads\\system_integratorwebblazor\\system_integratorwebblazor\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90DB2A75-B16B-4D10-847D-3A4EA2333435}|System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj|solutionrelative:system_integratorwebblazor\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -19,12 +51,116 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Navigation.razor",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Shared\\Navigation.razor",
+              "RelativeDocumentMoniker": "System_IntegratorWebBlazor\\Shared\\Navigation.razor",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Shared\\Navigation.razor",
+              "RelativeToolTip": "System_IntegratorWebBlazor\\Shared\\Navigation.razor",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwCkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T20:39:41.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nav.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\wwwroot\\nav\\nav.json",
+              "RelativeDocumentMoniker": "System_IntegratorWebBlazor\\wwwroot\\nav\\nav.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\wwwroot\\nav\\nav.json",
+              "RelativeToolTip": "System_IntegratorWebBlazor\\wwwroot\\nav\\nav.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T20:37:55.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "System_IntegratorWebBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Program.cs",
+              "RelativeToolTip": "System_IntegratorWebBlazor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:37:09.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Global\\Config\\GlobalConfig.cs",
+              "RelativeDocumentMoniker": "System_IntegratorWebBlazor\\Global\\Config\\GlobalConfig.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Global\\Config\\GlobalConfig.cs",
+              "RelativeToolTip": "System_IntegratorWebBlazor\\Global\\Config\\GlobalConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:36:01.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\_Imports.cs",
+              "RelativeDocumentMoniker": "System_IntegratorWebBlazor\\_Imports.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\_Imports.cs",
+              "RelativeToolTip": "System_IntegratorWebBlazor\\_Imports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:35:44.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavHelper.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Global\\Nav\\NavHelper.cs",
+              "RelativeDocumentMoniker": "System_IntegratorWebBlazor\\Global\\Nav\\NavHelper.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Global\\Nav\\NavHelper.cs",
+              "RelativeToolTip": "System_IntegratorWebBlazor\\Global\\Nav\\NavHelper.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAawDwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:21:44.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.razor",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Shared\\Settings.razor",
+              "RelativeDocumentMoniker": "System_IntegratorWebBlazor\\Shared\\Settings.razor",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Shared\\Settings.razor",
+              "RelativeToolTip": "System_IntegratorWebBlazor\\Shared\\Settings.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T19:48:37.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "System_IntegratorWebBlazor\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "System_IntegratorWebBlazor\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T10:47:51.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "System_IntegratorWebBlazor\\Pages\\Index.razor",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\Pages\\Index.razor",
               "RelativeToolTip": "System_IntegratorWebBlazor\\Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-16T10:45:44.323Z",
               "EditorCaption": ""

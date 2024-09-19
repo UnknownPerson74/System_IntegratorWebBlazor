@@ -1,0 +1,45 @@
+﻿<MNavigationDrawer Value=Show ValueChanged=ShowChanged Fixed Right Temporary Width="300">
+    <PrependContent>
+        <MContainer>
+            <MToolbar Style="width: 100%;" Absolute Elevation=0 Class="pr-4">
+                <span class="text-h6">Settings</span>
+                <MSpacer></MSpacer>
+                <MButton Icon OnClick="()=>{ Show = false; }">
+                    <MIcon>mdi-close</MIcon>
+                </MButton>
+            </MToolbar>
+        </MContainer>
+    </PrependContent>
+    <ChildContent>
+        <MContainer Fluid>
+            <p class="mt-8 text-subtitle2">Mode</p>
+            <MRadioGroup TValue="string" Mandatory Row>
+                <MRadio Label="Breadcrumb" Value="1"></MRadio>
+                <MRadio Label="PageTab" Value="1"></MRadio>
+            </MRadioGroup>
+        </MContainer>
+        <MContainer Fluid>
+            <p class="mt-8 text-subtitle2">NavigationStyle</p>
+            <MRadioGroup TValue="string" Mandatory  Row>
+                <MRadio Label="Flat" Value="1"></MRadio>
+                <MRadio Label="Rounded" Value="1"></MRadio>
+            </MRadioGroup>
+        </MContainer>
+    </ChildContent>
+</MNavigationDrawer>
+
+@code {
+    [Parameter]
+    public bool? Show { get; set; }
+
+    [Parameter]
+    public EventCallback<bool?> ShowChanged { get; set; }
+
+    [Parameter]
+    public EventCallback<string> PageModelChanged { get; set; }
+
+    [Parameter]
+    public EventCallback<string> NavigationBarStyleChanged { get; set; }
+
+
+}

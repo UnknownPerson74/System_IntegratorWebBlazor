@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "c0iDTB//fjg=",
+  "dgSpecHash": "oXwFtVwGLs8=",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\LENOVO\\.nuget\\packages\\bemit\\2.2.0\\bemit.2.2.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\bemit\\1.2.2\\bemit.1.2.2.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\blazorcomponent\\1.5.5\\blazorcomponent.1.5.5.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\deepcloner\\0.10.4\\deepcloner.0.10.4.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.4.0\\fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
-    "C:\\Users\\LENOVO\\.nuget\\packages\\masa.blazor\\1.6.0\\masa.blazor.1.6.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\masa.blazor\\1.5.5\\masa.blazor.1.5.5.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.0\\microsoft.aspnetcore.components.8.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.0\\microsoft.aspnetcore.components.analyzers.8.0.0.nupkg.sha512",

@@ -5,9 +5,15 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
-builder.Services.AddMasaBlazor();
-builder.Services.AddSingleton<WeatherForecastService>();
-
+builder.Services.AddMasaBlazor(builder =>
+{
+    builder.ConfigureTheme(theme =>
+    {
+        theme.Themes.Light.Primary = "#4318FF";
+        theme.Themes.Light.Accent = "#4318FF";
+    });
+});
+builder.Services.AddGlobalForServer();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

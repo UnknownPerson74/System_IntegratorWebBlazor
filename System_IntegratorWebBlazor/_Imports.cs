@@ -1,0 +1,26 @@
+﻿global using  BlazorComponent;
+global using BlazorComponent.I18n;
+global using System_IntegratorWebBlazor;
+//global using System_IntegratorWebBlazor.App.ECommerce;
+//global using Masa.Blazor.Pro.Data.App.ECommerce.Dto;
+//global using Masa.Blazor.Pro.Data.App.Invoice;
+//global using Masa.Blazor.Pro.Data.App.Invoice.Dto;
+//global using Masa.Blazor.Pro.Data.App.Todo;
+//global using Masa.Blazor.Pro.Data.App.Todo.Dto;
+//global using Masa.Blazor.Pro.Data.App.User;
+//global using Masa.Blazor.Pro.Data.App.User.Dto;
+//global using Masa.Blazor.Pro.Data.Base;
+//global using Masa.Blazor.Pro.Data.Dashboard.ECommerce;
+//global using Masa.Blazor.Pro.Data.Dashboard.ECommerce.Dto;
+//global using Masa.Blazor.Pro.Data.Dashboard.Analytics;
+//global using Masa.Blazor.Pro.Data.Others.AccountSettings;
+//global using Masa.Blazor.Pro.Data.Others.AccountSettings.Dto;
+global using System_IntegratorWebBlazor.Global;
+global using System_IntegratorWebBlazor.Global.Config;
+global using System_IntegratorWebBlazor.Global.Nav.Model;
+global using Microsoft.AspNetCore.Components;
+global using System.ComponentModel;
+global using System.ComponentModel.DataAnnotations;
+global using System.Reflection;
+global using System.Text.Json;
+

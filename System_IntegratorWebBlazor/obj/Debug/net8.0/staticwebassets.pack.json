@@ -1,36 +1,16 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\wwwroot\\css\\materialdesign\\v7.1.96\\css\\materialdesignicons.min.css",
-      "PackagePath": "staticwebassets\\css\\materialdesign\\v7.1.96\\css\\materialdesignicons.min.css"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\wwwroot\\css\\materialdesign\\v7.1.96\\css\\materialdesignicons.min.css.map",
-      "PackagePath": "staticwebassets\\css\\materialdesign\\v7.1.96\\css\\materialdesignicons.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\wwwroot\\css\\materialdesign\\v7.1.96\\fonts\\materialdesignicons-webfont.eot",
-      "PackagePath": "staticwebassets\\css\\materialdesign\\v7.1.96\\fonts\\materialdesignicons-webfont.eot"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\wwwroot\\css\\materialdesign\\v7.1.96\\fonts\\materialdesignicons-webfont.ttf",
-      "PackagePath": "staticwebassets\\css\\materialdesign\\v7.1.96\\fonts\\materialdesignicons-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\wwwroot\\css\\materialdesign\\v7.1.96\\fonts\\materialdesignicons-webfont.woff",
-      "PackagePath": "staticwebassets\\css\\materialdesign\\v7.1.96\\fonts\\materialdesignicons-webfont.woff"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\wwwroot\\css\\materialdesign\\v7.1.96\\fonts\\materialdesignicons-webfont.woff2",
-      "PackagePath": "staticwebassets\\css\\materialdesign\\v7.1.96\\fonts\\materialdesignicons-webfont.woff2"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\wwwroot\\css\\System_IntegratorWebBlazor.styles.css",
+      "PackagePath": "staticwebassets\\css\\System_IntegratorWebBlazor.styles.css"
     },
     {
       "Id": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\System_IntegratorWebBlazor\\System_IntegratorWebBlazor\\wwwroot\\nav\\nav.json",
+      "PackagePath": "staticwebassets\\nav\\nav.json"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.System_IntegratorWebBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
